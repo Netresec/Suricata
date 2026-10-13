@@ -7,3 +7,4 @@ All rules are available in [netresec.rules](netresec.rules)
 ## Further reading
 See these blog posts for more background the signatures in this repository:
 * [Gh0stKCP Protocol](https://www.netresec.com/?page=Blog&month=2025-09&post=Gh0stKCP-Protocol) (September 2025)
+* [Detecting AtlasRAT C2](https://www.netresec.com/?page=Blog&month=2026-10&post=Detecting-AtlasRAT-C2) (October 2026)
